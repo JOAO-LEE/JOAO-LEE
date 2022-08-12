@@ -12,9 +12,5 @@
   <img align="center" alt="typescript logo" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
    <img align="center" alt="react logo" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
 </div>
- 
-##
-  
 <div>
-  <a href="https://www.instagram.com/joaumlee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
