@@ -6,11 +6,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 <div style="display: flex"><br>
-  <img align="center" alt="html logo" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css logo" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joaolee-Js" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  <img align="center" alt="typescript logo" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
-   <img align="center" alt="react logo" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+  <img align="center" alt="bash logo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/bash/bash-original.svg">
+  <img align="center" alt="html logo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="css logo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="joaolee-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="typescript logo" height="27" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img align="center" alt="typescript logo" height="30"width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
 </div>
 <div>
- 
