@@ -7,7 +7,7 @@ I am a full stack web developer! 🚀</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div align="center">
-🚧⚠️ This section is currently in maintenance!!! ⚠️🚧
+  <h3>🚧⚠️ This section is currently in maintenance! ⚠️🚧</h3>
   </div>
 <!-- <div display="flex">
   <div display="flex">
