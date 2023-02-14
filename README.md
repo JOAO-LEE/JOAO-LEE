@@ -6,8 +6,9 @@ I am a full stack web developer! 🚀</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JOAO-LEE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
-🚧⚠️ This section is currently in maintenance!!! ⚠️🚧 
+<div align="center">
+🚧⚠️ This section is currently in maintenance!!! ⚠️🚧
+  </div>
 <!-- <div display="flex">
   <div display="flex">
   <h4>Frontend</h4>
@@ -26,9 +27,9 @@ I am a full stack web developer! 🚀</h2>
 <img align="center" alt="docker logo" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" alt="docker logo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div> -->
-   <h5>Command Lines</h5>
+<!--    <h5>Command Lines</h5>
   <img align="center" alt="bash logo" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/bash/bash-original.svg">
 <div>
 <div align="center"> 
 <a href="https://www.linkedin.com/in/joao-lee-lima/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+</div> -->
