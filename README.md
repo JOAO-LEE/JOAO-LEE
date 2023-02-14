@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm João Lima!<br>
-I am a full stack web development student at Trybe! 🚀</h2>
+I am a full stack web developer! 🚀</h2>
 
 <div align="center">
   <a href="https://github.com/JOAO-LEE">
