@@ -31,6 +31,10 @@ Feel free to contact me through the links below. ⤵️
 | `database`| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 |`testing` | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) |
 
+<img align="left" src="./images/joaolee-memoji-removebg-preview.png" width="250px" />
+<br clear="left">
+
+
 Regarding future goals, I intend to develop mobile applications using frameworks such as Flutter and Swift.
 Since I'm still improving my skills, I'm open to tips and advices concerning my repositories/projects.
 
