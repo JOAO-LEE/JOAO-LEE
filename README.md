@@ -6,12 +6,13 @@
 ## About
 I'm from Brazil 🇧🇷 and I'm 25 years old. I've been learning web development since October/2021, when I had deciced to transition my career into tech. \
 Also: \
-&nbsp;&nbsp; • I 🫀 cycling! I pedal at least 120km/week! 🚴; \
+&nbsp;&nbsp; • I ❤️ cycling! I pedal at least 120km/week! 🚴; \
 &nbsp;&nbsp; • Music production is my passion! I used to make hip-hop instrumentals! 🎹 \
 &nbsp;&nbsp; • Thrillers are my favorites when it comes to movies & series! 🍿🎥;
 
 My current goal is to get a job as a developer to acquire experience, through the learning of new workflows and technologies 👨‍💻. \
 Feel free to contact me through the links below. ⤵️
+
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-lee-lima/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" title="Let's connect!"/></a>
   <a href="https://twitter.com/joaumlee"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="95px" title="Follow me!"/></a>
