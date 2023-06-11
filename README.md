@@ -12,14 +12,14 @@ Also: \
 
 My current goal is to get a job as a developer to acquire experience, through the learning of new workflows and technologies 👨‍💻. \
 Feel free to contact me through the links below. ⤵️
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-lee-lima/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" title="Let's connect!"/></a>
   <a href="https://twitter.com/joaumlee"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="95px" title="Follow me!"/></a>
   <a href="mailto:joaumlimaum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80px" title="Send me a message!"/></a>
 </div>
 <img align="right" src="./images/joaolee-memoji-removebg-preview-callme.png" width="170px" />
-<br clear="left">
+<!-- <br clear="left"> -->
 
 ## Tech Stack
 
