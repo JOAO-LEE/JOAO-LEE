@@ -40,7 +40,7 @@ Feel free to contact me through the links below. ⤵️
 | `ìde`| <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/> |
 | `containerization`| <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="85px"/> |
 
-<img align="left" src="./images/joaolee-memoji-removebg-preview-computer.png" width="220px" />
+<img align="left" src="./images/joaolee-memoji-removebg-preview-computer.png" width="190px" />
 
 Regarding future goals, my interests range from web development to mobile development; \
 I pretend to learn technologies such as ReactNative and Flutter.
