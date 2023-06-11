@@ -27,7 +27,7 @@ Feel free to contact me through the links below. ⤵️
 
 |    |   |
 |:---|:---:|
-| `frameworks,libraries and platforms` | `what i've learned so far use in a daily basis` |
+| `frameworks,libraries and platforms` | `what i've learned so far/use in a daily basis` |
 | `frontend` | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="80px"/> |
 | `state management`| <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="75px"/> | 
 | `styling` | <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="100px"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" width="105px"/> |
