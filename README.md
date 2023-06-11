@@ -8,7 +8,7 @@ I'm from Brazil 🇧🇷 and I'm 25 years old. I've been learning web developmen
 Also: \
 &nbsp;&nbsp; • I ❤️ cycling! I pedal at least 120km/week! 🚴; \
 &nbsp;&nbsp; • Music production is my passion! I used to make hip-hop instrumentals! 🎹 \
-&nbsp;&nbsp; • Thrillers are my favorites when it comes to movies & series! 🍿🎥;
+&nbsp;&nbsp; • Thrillers are my favorite ones when it comes to movies & series! 🍿🎥;
 
 My current goal is to get a job as a developer to acquire experience, through the learning of new workflows and technologies 👨‍💻. \
 Feel free to contact me through the links below. ⤵️
