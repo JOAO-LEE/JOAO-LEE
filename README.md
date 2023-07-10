@@ -29,10 +29,6 @@ Feel free to contact me through the links below. ⤵️
 
 |    |   |
 |:---|:---:|
-|`currently learning`| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="80px"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" width="50px"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="60px"> |
-
-|    |   |
-|:---|:---:|
 | `frameworks,libraries and platforms` | `what i've learned so far/use in a daily basis` |
 | `frontend` | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="80px"/> |
 | `state management`| <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="75px"/> | 
@@ -44,7 +40,9 @@ Feel free to contact me through the links below. ⤵️
 | `ìde`| <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/> |
 | `containerization`| <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="85px"/> |
 
-
+|    |   |
+|:---|:---:|
+|`currently learning`| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="80px"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" width="50px"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="60px"> |
 
 <img align="left" src="./images/joaolee-memoji-removebg-preview-computer.png" width="190px" />
 
