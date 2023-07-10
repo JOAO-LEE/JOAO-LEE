@@ -49,6 +49,6 @@ Feel free to contact me through the links below. ⤵️
 Regarding future goals, my interests range from web development to mobile development; \
 I pretend to learn technologies such as ReactNative and Flutter.
 
-I've been looking up VR/AR applications development as well, since it's using have been increasing throughout last years.
+I've been looking up VR/AR applications development as well, since its using have been increasing throughout last years.
 
 Since I'm still improving my skills, I'm open to tips and advices concerning my repositories/projects!
