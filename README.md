@@ -1,6 +1,6 @@
 # 👋 Hi! I'm João Lima and I'm a full stack web developer!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=donut&langs_count=10&theme=midnight-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=donut&langs_count=10&theme=github_dark" />
 <img src="https://komarev.com/ghpvc/?username=JOAO-LEE&color=grey&style=for-the-badge&label=profile+views" width=120px align="right">
 
 ## About
