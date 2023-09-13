@@ -1,7 +1,7 @@
 # 👋 Hi! I'm João Lima and I'm a full stack web developer!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=donut&langs_count=10&bg_color=00000000" />
-<img src="https://komarev.com/ghpvc/?username=JOAO-LEE&color=grey&style=for-the-badge&label=profile+views" width=120px align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=donut&langs_count=10&bg_color=00000000&title_color=5271ff&text_color=a3bfff&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=JOAO-LEE&color=5271FF&style=for-the-badge&label=profile+views" width=120px align="right">
 
 ## About
 I'm from Brazil 🇧🇷 and I'm 25 years old. I've been learning web development since October/2021, when I had deciced to transition my career into tech. \
@@ -19,7 +19,6 @@ Feel free to contact me through the links below. ⤵️
   <a href="mailto:joaumlimaum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80px" title="Send me a message!"/></a>
 </div>
 <img align="right" src="./images/joaolee-memoji-removebg-preview-callme.png" width="180px" />
-<!-- <br clear="left"> -->
 
 ## Tech Stack
 
