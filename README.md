@@ -1,7 +1,7 @@
 # 👋 Hi! I'm João Lima and I'm a full stack web developer!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=donut&langs_count=10&bg_color=00000000&title_color=5271ff&text_color=a3bfff&hide_border=true" />
-<img src="https://komarev.com/ghpvc/?username=JOAO-LEE&color=5271FF&style=for-the-badge&label=profile+views" width=120px align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-LEE&layout=donut&langs_count=10&bg_color=00000000&title_color=1e46fc&text_color=fafafa&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=JOAO-LEE&color=5271FF&style=for-the-badge&label=you're+visitor+nº" width=120px align="right">
 
 ## About
 I'm from Brazil 🇧🇷 and I'm 25 years old. I've been learning web development since October/2021, when I had deciced to transition my career into tech. \
@@ -14,9 +14,9 @@ My current goal is to get a job as a developer to acquire experience, through th
 Feel free to contact me through the links below. ⤵️
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-lee-lima/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" title="Let's connect!"/></a>
-  <a href="https://twitter.com/joaumlee"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="95px" title="Follow me!"/></a>
-  <a href="mailto:joaumlimaum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80px" title="Send me a message!"/></a>
+  <a href="https://www.linkedin.com/in/joao-lee-lima/"><img src="https://img.shields.io/badge/linkedin-2b4afc.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" title="Let's connect!"/></a>
+  <a href="https://twitter.com/joaumlee"><img src="https://img.shields.io/badge/Twitter-2b4afc.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="95px" title="Follow me!"/></a>
+  <a href="mailto:joaumlimaum@gmail.com"><img src="https://img.shields.io/badge/Gmail-2b4afc?style=for-the-badge&logo=gmail&logoColor=white" width="80px" title="Send me a message!"/></a>
 </div>
 <img align="right" src="./images/joaolee-memoji-removebg-preview-callme.png" width="180px" />
 
