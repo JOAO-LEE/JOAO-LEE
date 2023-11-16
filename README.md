@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=JOAO-LEE&color=5271FF&style=for-the-badge&label=you're+visitor+nº" width=120px align="right">
 
 ## About
-I'm from Brazil 🇧🇷 and I'm 25 years old. I've been learning web development since October/2021, when I had deciced to transition my career into tech. \
+I'm from Brazil 🇧🇷 and I'm 26 years old. I've been learning web development since October/2021, when I had deciced to transition my career into tech. \
 Also: \
 &nbsp;&nbsp; • I ❤️ cycling! I pedal at least 120km/week! 🚴; \
 &nbsp;&nbsp; • Music production is my passion! I used to make hip-hop instrumentals! 🎹 \
