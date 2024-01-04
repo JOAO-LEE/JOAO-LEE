@@ -41,7 +41,7 @@ Feel free to contact me through the links below. ⤵️
 
 |    |   |
 |:---|:---:|
-|`currently learning`| <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black" width="60px"> <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" width="82px"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" width="60px"> |
+|`currently learning`| <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black" width="60px"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" width="82px"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" width="60px"> |
 
 <img align="left" src="./images/joaolee-memoji-removebg-preview-computer.png" width="190px" />
 
