@@ -46,7 +46,7 @@ Feel free to contact me through the links below. ⤵️
 <img align="left" src="./images/joaolee-memoji-removebg-preview-computer.png" width="190px" />
 
 Regarding future goals, my interests range from web development to mobile development; \
-I pretend to learn technologies such as ReactNative and Flutter.
+I intend to learn technologies such as ReactNative and Flutter.
 
 I've been looking up VR/AR applications development as well, since its using have been increasing throughout last years.
 
