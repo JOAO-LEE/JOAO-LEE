@@ -22,9 +22,9 @@ Feel free to contact me through the links below. ⤵️
 <br>
 
 
-### Tech Stack
-
 <img align="right" src="./images/joaolee-memoji-removebg-preview-callme.png" width="190px" />
+
+### Tech Stack
 
 |   |   |
 |:--|:---:|
