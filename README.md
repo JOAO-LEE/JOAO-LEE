@@ -43,6 +43,8 @@ Feel free to contact me through the links below. ⤵️
 | `ìde's`| <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" width="100px"/>|
 | `containerization`| <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="85px"/> |
 
+<br>
+
 |    |   |
 |:---|:---:|
 |`currently learning`| <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black" width="60px"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" width="82px"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" width="60px"> |
