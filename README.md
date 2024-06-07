@@ -15,7 +15,7 @@ Feel free to contact me through the links below. ⤵️
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-lee-lima/"><img src="https://img.shields.io/badge/linkedin-2b4afc.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" title="Let's connect!"/></a>
-  <a href="https://twitter.com/joaumlee"><img src="https://img.shields.io/badge/Twitter-2b4afc.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="95px" title="Follow me!"/></a>
+<!--   <a href="https://twitter.com/joaumlee"><img src="https://img.shields.io/badge/X" width="95px" title="Follow me!"/></a> -->
   <a href="mailto:joaumlimaum@gmail.com"><img src="https://img.shields.io/badge/Gmail-2b4afc?style=for-the-badge&logo=gmail&logoColor=white" width="80px" title="Send me a message!"/></a>
 </div>
 <br>
